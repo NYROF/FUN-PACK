@@ -1,6 +1,6 @@
 # FUN PACK TERMINAL - README
 
-Bienvenue dans **FUN PACK TERMINAL**, un script Python fun pour faire plein de petites actions rigolotes sur Windows, directement depuis ton terminal.
+Bienvenue dans **FUN PACK TERMINAL**, un script Python fun pour faire plein de petites actions sur Windows, directement depuis ton terminal.
 
 ---
 
@@ -31,6 +31,4 @@ Aucune installation de module nécessaire, tout fonctionne avec Python standard 
 
 ## Usage
 
-Lance le script avec :  
-```bash
-python fun_pack_terminal.py
+Lance le script avec le fichier fun-pack.py
